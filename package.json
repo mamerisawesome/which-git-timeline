@@ -1,6 +1,6 @@
 {
 	"name": "which-git-timeline",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"author": "Almer Mendoza",
 	"bin": "dist/cli.js",
