@@ -3,6 +3,7 @@
 	"version": "1.0.1",
 	"license": "MIT",
 	"author": "Almer Mendoza",
+	"description": "Check if you're on the main timeline (branch) of your git repository",
 	"bin": "dist/cli.js",
 	"type": "module",
 	"engines": {
