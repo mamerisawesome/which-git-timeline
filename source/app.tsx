@@ -56,7 +56,7 @@ const App = ({ currentBranch, defaultBranch, isMainBranch }: AppProps) => {
           Current branch: <Text color="cyan">{currentBranch}</Text>
           {!isMainBranch && (
             <Text>
-              <Text color="green">{currentBranch}</Text> is not the default branch
+              <Text color="red"> is not the default branch</Text>
             </Text>
           )}
         </Text>
