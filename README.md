@@ -36,11 +36,11 @@ which-git-timeline
 
 You either get a message that you're in the main timeline
 
-[![In the main timeline](./docs/assets/main-timeline.png)](./docs/assets/main-timeline.png)
+[![In the main timeline](./docs/assets/main-timeline.png)](https://raw.githubusercontent.com/mamerisawesome/which-git-timeline/refs/heads/main/docs/assets/main-timeline.png)
 
 **or** that you're not.
 
-[![Not in the main timeline](./docs/assets/alternate-timeline.png)](./docs/assets/alternate-timeline.png)
+[![Not in the main timeline](./docs/assets/alternate-timeline.png)](https://raw.githubusercontent.com/mamerisawesome/which-git-timeline/refs/heads/main/docs/assets/alternate-timeline.png)
 
 ## 🎬 Inspiration
 

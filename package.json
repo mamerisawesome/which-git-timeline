@@ -4,6 +4,11 @@
 	"license": "MIT",
 	"author": "Almer Mendoza",
 	"description": "Check if you're on the main timeline (branch) of your git repository",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mamerisawesome/which-git-timeline.git"
+	},
+	"homepage": "https://github.com/mamerisawesome/which-git-timeline",
 	"bin": "dist/cli.js",
 	"type": "module",
 	"engines": {
